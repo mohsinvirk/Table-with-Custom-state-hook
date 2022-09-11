@@ -1,6 +1,6 @@
 ## Due to Lack of Time I couldn't do some stuff which I've mentioned below.
 
-#### 1: I would have styled it better with diferent even odd rows styles.
+#### 1: I would have styled it better with responsive design and diferent even odd rows styles.
 
 #### 2: I would've used uniform data store across both pages. I didn't because I wanted to demonstrate use of memoization in Sum page.
 
