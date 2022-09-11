@@ -1,0 +1,21 @@
+.tableBody {
+  tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+    &:hover {
+      background: rgba(0, 0, 0, 0.06);
+      transition: background 0.3s;
+    }
+  }
+
+  td {
+    font-size: 24px;
+    color: black;
+    font-weight: normal;
+    text-align: left;
+
+    margin: 0;
+    padding: 10px 30px;
+  }
+}

@@ -1,0 +1,1045 @@
+[
+  {
+    "departments": "IT",
+    "project_name": "Gaama",
+    "amount": "1,200.00€",
+    "date": "10/2/2021",
+    "member_name": "Sam"
+  },
+  {
+    "departments": "IT",
+    "project_name": "Mars-NS1",
+    "amount": "1,400.00€",
+    "date": "2/4/2021",
+    "member_name": "Sam"
+  },
+  {
+    "departments": "IT",
+    "project_name": "Asterin",
+    "amount": "800.00€",
+    "date": "3/8/2021",
+    "member_name": "George"
+  },
+  {
+    "departments": "HR",
+    "project_name": "Mars-NS1",
+    "amount": "1,823.00€",
+    "date": "5/10/2021",
+    "member_name": "Sam"
+  },
+  {
+    "departments": "HR",
+    "project_name": "AlphaDeo",
+    "amount": "2,839.00€",
+    "date": "5/23/2021",
+    "member_name": "Matt"
+  },
+  {
+    "departments": "HR",
+    "project_name": "Gaama",
+    "amount": "210.00€",
+    "date": "3/2/2021",
+    "member_name": "Matt"
+  },
+  {
+    "departments": "HR",
+    "project_name": "Mars-NS1",
+    "amount": "720.00€",
+    "date": "3/1/2021",
+    "member_name": "Jennifer"
+  },
+  {
+    "departments": "HR",
+    "project_name": "Alph-23",
+    "amount": "929.00€",
+    "date": "11/5/2021",
+    "member_name": "Sam"
+  },
+  {
+    "departments": "Sales",
+    "project_name": "AlphaDeo",
+    "amount": "2,237.00€",
+    "date": "4/17/2021",
+    "member_name": "Ann"
+  },
+  {
+    "departments": "Sales",
+    "project_name": "Asterin",
+    "amount": "5,807.00€",
+    "date": "1/13/2021",
+    "member_name": "Ann"
+  },
+  {
+    "departments": "Sales",
+    "project_name": "Asterin",
+    "amount": "5,233.00€",
+    "date": "7/26/2021",
+    "member_name": "George"
+  },
+  {
+    "departments": "Sales",
+    "project_name": "Gaama",
+    "amount": "9,175.00€",
+    "date": "11/25/2021",
+    "member_name": "Matt"
+  },
+  {
+    "departments": "Sales",
+    "project_name": "Alph-23",
+    "amount": "5,528.00€",
+    "date": "11/25/2021",
+    "member_name": "George"
+  },
+  {
+    "departments": "Sales",
+    "project_name": "Gaama",
+    "amount": "2,204.00€",
+    "date": "5/19/2021",
+    "member_name": "Jennifer"
+  },
+  {
+    "departments": "Sales",
+    "project_name": "Gaama",
+    "amount": "9,027.00€",
+    "date": "2/14/2021",
+    "member_name": "George"
+  },
+  {
+    "departments": "Finance",
+    "project_name": "Gaama",
+    "amount": "7,811.00€",
+    "date": "9/30/2021",
+    "member_name": "Matt"
+  },
+  {
+    "departments": "Finance",
+    "project_name": "Asterin",
+    "amount": "6,561.00€",
+    "date": "12/30/2021",
+    "member_name": "Matt"
+  },
+  {
+    "departments": "Finance",
+    "project_name": "Asterin",
+    "amount": "3,336.00€",
+    "date": "4/9/2021",
+    "member_name": "Ann"
+  },
+  {
+    "departments": "Finance",
+    "project_name": "Alph-23",
+    "amount": "2,627.00€",
+    "date": "7/31/2021",
+    "member_name": "Sam"
+  },
+  {
+    "departments": "Finance",
+    "project_name": "Alph-23",
+    "amount": "4,345.00€",
+    "date": "11/20/2021",
+    "member_name": "Matt"
+  },
+  {
+    "departments": "IT",
+    "project_name": "Mars-NS1",
+    "amount": "1,414.00€",
+    "date": "7/26/2021",
+    "member_name": "Sam"
+  },
+  {
+    "departments": "IT",
+    "project_name": "Gaama",
+    "amount": "9,333.00€",
+    "date": "3/21/2021",
+    "member_name": "Ann"
+  },
+  {
+    "departments": "IT",
+    "project_name": "Alph-23",
+    "amount": "1,838.00€",
+    "date": "2/22/2021",
+    "member_name": "Jennifer"
+  },
+  {
+    "departments": "HR",
+    "project_name": "AlphaDeo",
+    "amount": "4,334.00€",
+    "date": "5/15/2021",
+    "member_name": "Sam"
+  },
+  {
+    "departments": "HR",
+    "project_name": "Asterin",
+    "amount": "1,067.00€",
+    "date": "6/6/2021",
+    "member_name": "Ann"
+  },
+  {
+    "departments": "HR",
+    "project_name": "AlphaDeo",
+    "amount": "7,636.00€",
+    "date": "12/10/2021",
+    "member_name": "Ann"
+  },
+  {
+    "departments": "HR",
+    "project_name": "Alph-23",
+    "amount": "9,936.00€",
+    "date": "12/23/2021",
+    "member_name": "Jennifer"
+  },
+  {
+    "departments": "HR",
+    "project_name": "Asterin",
+    "amount": "1,804.00€",
+    "date": "9/17/2021",
+    "member_name": "Ann"
+  },
+  {
+    "departments": "Sales",
+    "project_name": "Alph-23",
+    "amount": "1,264.00€",
+    "date": "11/22/2021",
+    "member_name": "Matt"
+  },
+  {
+    "departments": "Sales",
+    "project_name": "AlphaDeo",
+    "amount": "4,519.00€",
+    "date": "1/29/2021",
+    "member_name": "Sam"
+  },
+  {
+    "departments": "Sales",
+    "project_name": "Asterin",
+    "amount": "5,329.00€",
+    "date": "12/30/2021",
+    "member_name": "George"
+  },
+  {
+    "departments": "Sales",
+    "project_name": "Mars-NS1",
+    "amount": "4,243.00€",
+    "date": "4/12/2021",
+    "member_name": "Ann"
+  },
+  {
+    "departments": "Sales",
+    "project_name": "Asterin",
+    "amount": "5,132.00€",
+    "date": "12/9/2021",
+    "member_name": "Sam"
+  },
+  {
+    "departments": "Sales",
+    "project_name": "Gaama",
+    "amount": "8,251.00€",
+    "date": "7/5/2021",
+    "member_name": "Sam"
+  },
+  {
+    "departments": "Sales",
+    "project_name": "AlphaDeo",
+    "amount": "7,307.00€",
+    "date": "8/18/2021",
+    "member_name": "Sam"
+  },
+  {
+    "departments": "Finance",
+    "project_name": "Gaama",
+    "amount": "2,266.00€",
+    "date": "9/20/2021",
+    "member_name": "Sam"
+  },
+  {
+    "departments": "Finance",
+    "project_name": "Gaama",
+    "amount": "4,945.00€",
+    "date": "5/18/2021",
+    "member_name": "Sam"
+  },
+  {
+    "departments": "Finance",
+    "project_name": "Asterin",
+    "amount": "5,064.00€",
+    "date": "12/15/2021",
+    "member_name": "George"
+  },
+  {
+    "departments": "Finance",
+    "project_name": "Gaama",
+    "amount": "3,753.00€",
+    "date": "12/31/2021",
+    "member_name": "Matt"
+  },
+  {
+    "departments": "Finance",
+    "project_name": "Alph-23",
+    "amount": "1,292.00€",
+    "date": "2/1/2021",
+    "member_name": "George"
+  },
+  {
+    "departments": "IT",
+    "project_name": "AlphaDeo",
+    "amount": "7,948.00€",
+    "date": "2/25/2021",
+    "member_name": "Ann"
+  },
+  {
+    "departments": "IT",
+    "project_name": "Gaama",
+    "amount": "9,024.00€",
+    "date": "4/20/2021",
+    "member_name": "Sam"
+  },
+  {
+    "departments": "HR",
+    "project_name": "Mars-NS1",
+    "amount": "2,492.00€",
+    "date": "10/11/2021",
+    "member_name": "Matt"
+  },
+  {
+    "departments": "HR",
+    "project_name": "Gaama",
+    "amount": "8,926.00€",
+    "date": "4/1/2021",
+    "member_name": "Jennifer"
+  },
+  {
+    "departments": "Marketing",
+    "project_name": "Asterin",
+    "amount": "1,657.00€",
+    "date": "6/26/2021",
+    "member_name": "Ann"
+  },
+  {
+    "departments": "HR",
+    "project_name": "Gaama",
+    "amount": "2,154.00€",
+    "date": "2/25/2021",
+    "member_name": "Matt"
+  },
+  {
+    "departments": "HR",
+    "project_name": "Gaama",
+    "amount": "3,588.00€",
+    "date": "9/17/2021",
+    "member_name": "Jennifer"
+  },
+  {
+    "departments": "Marketing",
+    "project_name": "Gaama",
+    "amount": "8,383.00€",
+    "date": "3/10/2021",
+    "member_name": "Jennifer"
+  },
+  {
+    "departments": "Sales",
+    "project_name": "Asterin",
+    "amount": "7,296.00€",
+    "date": "12/14/2021",
+    "member_name": "Sam"
+  },
+  {
+    "departments": "Sales",
+    "project_name": "Asterin",
+    "amount": "1,730.00€",
+    "date": "8/10/2021",
+    "member_name": "Ann"
+  },
+  {
+    "departments": "Finance",
+    "project_name": "Mars-NS1",
+    "amount": "3,374.00€",
+    "date": "10/23/2021",
+    "member_name": "Matt"
+  },
+  {
+    "departments": "Marketing",
+    "project_name": "AlphaDeo",
+    "amount": "5,251.00€",
+    "date": "12/4/2021",
+    "member_name": "Jennifer"
+  },
+  {
+    "departments": "Marketing",
+    "project_name": "Asterin",
+    "amount": "6,192.00€",
+    "date": "8/9/2021",
+    "member_name": "George"
+  },
+  {
+    "departments": "HR",
+    "project_name": "Alph-23",
+    "amount": "7,496.00€",
+    "date": "10/20/2021",
+    "member_name": "Sam"
+  },
+  {
+    "departments": "HR",
+    "project_name": "Mars-NS1",
+    "amount": "2,213.00€",
+    "date": "8/13/2021",
+    "member_name": "Jennifer"
+  },
+  {
+    "departments": "IT",
+    "project_name": "Mars-NS1",
+    "amount": "2,169.00€",
+    "date": "10/7/2021",
+    "member_name": "Jennifer"
+  },
+  {
+    "departments": "IT",
+    "project_name": "Mars-NS1",
+    "amount": "2,817.00€",
+    "date": "2/14/2021",
+    "member_name": "Sam"
+  },
+  {
+    "departments": "HR",
+    "project_name": "Asterin",
+    "amount": "2,779.00€",
+    "date": "2/18/2021",
+    "member_name": "George"
+  },
+  {
+    "departments": "Finance",
+    "project_name": "AlphaDeo",
+    "amount": "7,106.00€",
+    "date": "8/31/2021",
+    "member_name": "Matt"
+  },
+  {
+    "departments": "IT",
+    "project_name": "Gaama",
+    "amount": "3,589.00€",
+    "date": "11/3/2021",
+    "member_name": "Sam"
+  },
+  {
+    "departments": "Finance",
+    "project_name": "Alph-23",
+    "amount": "9,928.00€",
+    "date": "9/12/2021",
+    "member_name": "George"
+  },
+  {
+    "departments": "Finance",
+    "project_name": "Mars-NS1",
+    "amount": "9,934.00€",
+    "date": "9/1/2021",
+    "member_name": "Ann"
+  },
+  {
+    "departments": "Sales",
+    "project_name": "Alph-23",
+    "amount": "7,122.00€",
+    "date": "1/6/2021",
+    "member_name": "Sam"
+  },
+  {
+    "departments": "Sales",
+    "project_name": "Mars-NS1",
+    "amount": "677.00€",
+    "date": "11/27/2021",
+    "member_name": "George"
+  },
+  {
+    "departments": "Sales",
+    "project_name": "AlphaDeo",
+    "amount": "5,770.00€",
+    "date": "9/5/2021",
+    "member_name": "Matt"
+  },
+  {
+    "departments": "IT",
+    "project_name": "Mars-NS1",
+    "amount": "2,397.00€",
+    "date": "8/6/2021",
+    "member_name": "Ann"
+  },
+  {
+    "departments": "Finance",
+    "project_name": "AlphaDeo",
+    "amount": "4,330.00€",
+    "date": "2/11/2021",
+    "member_name": "Sam"
+  },
+  {
+    "departments": "Finance",
+    "project_name": "Mars-NS1",
+    "amount": "4,634.00€",
+    "date": "8/18/2021",
+    "member_name": "Ann"
+  },
+  {
+    "departments": "Finance",
+    "project_name": "Asterin",
+    "amount": "685.00€",
+    "date": "6/6/2021",
+    "member_name": "Jennifer"
+  },
+  {
+    "departments": "Sales",
+    "project_name": "Alph-23",
+    "amount": "2,689.00€",
+    "date": "7/12/2021",
+    "member_name": "Ann"
+  },
+  {
+    "departments": "HR",
+    "project_name": "Alph-23",
+    "amount": "5,409.00€",
+    "date": "8/5/2021",
+    "member_name": "Sam"
+  },
+  {
+    "departments": "Finance",
+    "project_name": "Mars-NS1",
+    "amount": "5,244.00€",
+    "date": "11/21/2021",
+    "member_name": "Ann"
+  },
+  {
+    "departments": "Finance",
+    "project_name": "AlphaDeo",
+    "amount": "622.00€",
+    "date": "8/1/2021",
+    "member_name": "Matt"
+  },
+  {
+    "departments": "IT",
+    "project_name": "Asterin",
+    "amount": "8,220.00€",
+    "date": "7/31/2021",
+    "member_name": "Jennifer"
+  },
+  {
+    "departments": "IT",
+    "project_name": "AlphaDeo",
+    "amount": "9,473.00€",
+    "date": "6/18/2021",
+    "member_name": "Sam"
+  },
+  {
+    "departments": "HR",
+    "project_name": "Asterin",
+    "amount": "280.00€",
+    "date": "7/24/2021",
+    "member_name": "Ann"
+  },
+  {
+    "departments": "HR",
+    "project_name": "AlphaDeo",
+    "amount": "8,018.00€",
+    "date": "11/21/2021",
+    "member_name": "George"
+  },
+  {
+    "departments": "Sales",
+    "project_name": "Asterin",
+    "amount": "4,397.00€",
+    "date": "3/9/2021",
+    "member_name": "Jennifer"
+  },
+  {
+    "departments": "IT",
+    "project_name": "Mars-NS1",
+    "amount": "5,728.00€",
+    "date": "3/9/2021",
+    "member_name": "Sam"
+  },
+  {
+    "departments": "Marketing",
+    "project_name": "Mars-NS1",
+    "amount": "560.00€",
+    "date": "12/26/2021",
+    "member_name": "George"
+  },
+  {
+    "departments": "Finance",
+    "project_name": "Asterin",
+    "amount": "6,328.00€",
+    "date": "4/12/2021",
+    "member_name": "George"
+  },
+  {
+    "departments": "HR",
+    "project_name": "AlphaDeo",
+    "amount": "7,691.00€",
+    "date": "2/7/2021",
+    "member_name": "George"
+  },
+  {
+    "departments": "IT",
+    "project_name": "Alph-23",
+    "amount": "574.00€",
+    "date": "6/2/2021",
+    "member_name": "Ann"
+  },
+  {
+    "departments": "Sales",
+    "project_name": "AlphaDeo",
+    "amount": "4,916.00€",
+    "date": "2/17/2021",
+    "member_name": "Ann"
+  },
+  {
+    "departments": "Marketing",
+    "project_name": "AlphaDeo",
+    "amount": "3,069.00€",
+    "date": "3/22/2021",
+    "member_name": "Sam"
+  },
+  {
+    "departments": "Finance",
+    "project_name": "Mars-NS1",
+    "amount": "9,601.00€",
+    "date": "9/13/2021",
+    "member_name": "Ann"
+  },
+  {
+    "departments": "HR",
+    "project_name": "Gaama",
+    "amount": "7,491.00€",
+    "date": "10/26/2021",
+    "member_name": "Jennifer"
+  },
+  {
+    "departments": "Sales",
+    "project_name": "Alph-23",
+    "amount": "9,090.00€",
+    "date": "4/7/2021",
+    "member_name": "Jennifer"
+  },
+  {
+    "departments": "Sales",
+    "project_name": "Asterin",
+    "amount": "7,656.00€",
+    "date": "5/24/2021",
+    "member_name": "Ann"
+  },
+  {
+    "departments": "Sales",
+    "project_name": "AlphaDeo",
+    "amount": "6,194.00€",
+    "date": "6/26/2021",
+    "member_name": "George"
+  },
+  {
+    "departments": "Marketing",
+    "project_name": "Gaama",
+    "amount": "4,639.00€",
+    "date": "4/10/2021",
+    "member_name": "Sam"
+  },
+  {
+    "departments": "HR",
+    "project_name": "AlphaDeo",
+    "amount": "2,685.00€",
+    "date": "11/11/2021",
+    "member_name": "George"
+  },
+  {
+    "departments": "Finance",
+    "project_name": "Mars-NS1",
+    "amount": "4,571.00€",
+    "date": "11/11/2021",
+    "member_name": "Matt"
+  },
+  {
+    "departments": "Sales",
+    "project_name": "Alph-23",
+    "amount": "6,872.00€",
+    "date": "7/23/2021",
+    "member_name": "Ann"
+  },
+  {
+    "departments": "Sales",
+    "project_name": "Mars-NS1",
+    "amount": "4,491.00€",
+    "date": "1/6/2021",
+    "member_name": "Jennifer"
+  },
+  {
+    "departments": "Sales",
+    "project_name": "Alph-23",
+    "amount": "8,683.00€",
+    "date": "4/29/2021",
+    "member_name": "George"
+  },
+  {
+    "departments": "Sales",
+    "project_name": "Mars-NS1",
+    "amount": "9,391.00€",
+    "date": "5/15/2021",
+    "member_name": "Matt"
+  },
+  {
+    "departments": "HR",
+    "project_name": "AlphaDeo",
+    "amount": "319.00€",
+    "date": "4/30/2021",
+    "member_name": "Matt"
+  },
+  {
+    "departments": "Finance",
+    "project_name": "Asterin",
+    "amount": "6,980.00€",
+    "date": "7/13/2021",
+    "member_name": "Sam"
+  },
+  {
+    "departments": "Sales",
+    "project_name": "AlphaDeo",
+    "amount": "760.00€",
+    "date": "2/27/2021",
+    "member_name": "Matt"
+  },
+  {
+    "departments": "Finance",
+    "project_name": "Asterin",
+    "amount": "5,106.00€",
+    "date": "1/24/2021",
+    "member_name": "Ann"
+  },
+  {
+    "departments": "Finance",
+    "project_name": "Gaama",
+    "amount": "5,212.00€",
+    "date": "11/9/2021",
+    "member_name": "Jennifer"
+  },
+  {
+    "departments": "Sales",
+    "project_name": "Mars-NS1",
+    "amount": "2,709.00€",
+    "date": "12/14/2021",
+    "member_name": "Sam"
+  },
+  {
+    "departments": "Sales",
+    "project_name": "Asterin",
+    "amount": "4,652.00€",
+    "date": "12/1/2021",
+    "member_name": "George"
+  },
+  {
+    "departments": "Sales",
+    "project_name": "AlphaDeo",
+    "amount": "8,794.00€",
+    "date": "1/3/2021",
+    "member_name": "Jennifer"
+  },
+  {
+    "departments": "HR",
+    "project_name": "Mars-NS1",
+    "amount": "8,199.00€",
+    "date": "11/22/2021",
+    "member_name": "Matt"
+  },
+  {
+    "departments": "HR",
+    "project_name": "Gaama",
+    "amount": "5,533.00€",
+    "date": "8/23/2021",
+    "member_name": "Jennifer"
+  },
+  {
+    "departments": "IT",
+    "project_name": "Gaama",
+    "amount": "1,170.00€",
+    "date": "8/3/2021",
+    "member_name": "Ann"
+  },
+  {
+    "departments": "IT",
+    "project_name": "AlphaDeo",
+    "amount": "4,214.00€",
+    "date": "1/5/2021",
+    "member_name": "Ann"
+  },
+  {
+    "departments": "HR",
+    "project_name": "Mars-NS1",
+    "amount": "1,909.00€",
+    "date": "8/17/2021",
+    "member_name": "Jennifer"
+  },
+  {
+    "departments": "IT",
+    "project_name": "Gaama",
+    "amount": "4,510.00€",
+    "date": "12/7/2021",
+    "member_name": "Ann"
+  },
+  {
+    "departments": "Marketing",
+    "project_name": "Alph-23",
+    "amount": "102.00€",
+    "date": "11/6/2021",
+    "member_name": "Ann"
+  },
+  {
+    "departments": "Finance",
+    "project_name": "AlphaDeo",
+    "amount": "4,151.00€",
+    "date": "2/20/2021",
+    "member_name": "George"
+  },
+  {
+    "departments": "Marketing",
+    "project_name": "Mars-NS1",
+    "amount": "1,298.00€",
+    "date": "1/29/2021",
+    "member_name": "Sam"
+  },
+  {
+    "departments": "Sales",
+    "project_name": "Mars-NS1",
+    "amount": "3,624.00€",
+    "date": "7/24/2021",
+    "member_name": "Sam"
+  },
+  {
+    "departments": "Sales",
+    "project_name": "Mars-NS1",
+    "amount": "6,213.00€",
+    "date": "10/15/2021",
+    "member_name": "Jennifer"
+  },
+  {
+    "departments": "IT",
+    "project_name": "Alph-23",
+    "amount": "7,473.00€",
+    "date": "8/31/2021",
+    "member_name": "Matt"
+  },
+  {
+    "departments": "Marketing",
+    "project_name": "Alph-23",
+    "amount": "7,508.00€",
+    "date": "12/12/2021",
+    "member_name": "Jennifer"
+  },
+  {
+    "departments": "Sales",
+    "project_name": "Gaama",
+    "amount": "3,969.00€",
+    "date": "4/14/2021",
+    "member_name": "George"
+  },
+  {
+    "departments": "Sales",
+    "project_name": "AlphaDeo",
+    "amount": "816.00€",
+    "date": "9/19/2021",
+    "member_name": "Sam"
+  },
+  {
+    "departments": "Sales",
+    "project_name": "Alph-23",
+    "amount": "9,763.00€",
+    "date": "11/16/2021",
+    "member_name": "Matt"
+  },
+  {
+    "departments": "HR",
+    "project_name": "AlphaDeo",
+    "amount": "4,605.00€",
+    "date": "10/20/2021",
+    "member_name": "Jennifer"
+  },
+  {
+    "departments": "HR",
+    "project_name": "AlphaDeo",
+    "amount": "7,154.00€",
+    "date": "3/11/2021",
+    "member_name": "George"
+  },
+  {
+    "departments": "Marketing",
+    "project_name": "AlphaDeo",
+    "amount": "5,000.00€",
+    "date": "12/7/2021",
+    "member_name": "George"
+  },
+  {
+    "departments": "HR",
+    "project_name": "AlphaDeo",
+    "amount": "3,119.00€",
+    "date": "1/27/2021",
+    "member_name": "Ann"
+  },
+  {
+    "departments": "Finance",
+    "project_name": "Mars-NS1",
+    "amount": "6,058.00€",
+    "date": "6/20/2021",
+    "member_name": "Matt"
+  },
+  {
+    "departments": "HR",
+    "project_name": "Mars-NS1",
+    "amount": "541.00€",
+    "date": "9/15/2021",
+    "member_name": "Sam"
+  },
+  {
+    "departments": "Marketing",
+    "project_name": "Gaama",
+    "amount": "3,464.00€",
+    "date": "3/31/2021",
+    "member_name": "Ann"
+  },
+  {
+    "departments": "IT",
+    "project_name": "Asterin",
+    "amount": "244.00€",
+    "date": "3/9/2021",
+    "member_name": "Sam"
+  },
+  {
+    "departments": "Finance",
+    "project_name": "AlphaDeo",
+    "amount": "4,605.00€",
+    "date": "6/19/2021",
+    "member_name": "Jennifer"
+  },
+  {
+    "departments": "IT",
+    "project_name": "Mars-NS1",
+    "amount": "4,689.00€",
+    "date": "1/1/2022",
+    "member_name": "Matt"
+  },
+  {
+    "departments": "Marketing",
+    "project_name": "Alph-23",
+    "amount": "1,162.00€",
+    "date": "7/9/2021",
+    "member_name": "George"
+  },
+  {
+    "departments": "HR",
+    "project_name": "Mars-NS1",
+    "amount": "345.00€",
+    "date": "1/3/2021",
+    "member_name": "Matt"
+  },
+  {
+    "departments": "Finance",
+    "project_name": "Asterin",
+    "amount": "1,307.00€",
+    "date": "6/17/2021",
+    "member_name": "George"
+  },
+  {
+    "departments": "Finance",
+    "project_name": "Asterin",
+    "amount": "810.00€",
+    "date": "6/27/2021",
+    "member_name": "George"
+  },
+  {
+    "departments": "Finance",
+    "project_name": "Mars-NS1",
+    "amount": "8,446.00€",
+    "date": "5/14/2021",
+    "member_name": "Matt"
+  },
+  {
+    "departments": "Marketing",
+    "project_name": "Alph-23",
+    "amount": "9,456.00€",
+    "date": "10/16/2021",
+    "member_name": "Sam"
+  },
+  {
+    "departments": "Marketing",
+    "project_name": "Asterin",
+    "amount": "6,981.00€",
+    "date": "11/6/2021",
+    "member_name": "Jennifer"
+  },
+  {
+    "departments": "Marketing",
+    "project_name": "Mars-NS1",
+    "amount": "1,430.00€",
+    "date": "4/23/2021",
+    "member_name": "Jennifer"
+  },
+  {
+    "departments": "HR",
+    "project_name": "Alph-23",
+    "amount": "4,272.00€",
+    "date": "10/10/2021",
+    "member_name": "Ann"
+  },
+  {
+    "departments": "HR",
+    "project_name": "Alph-23",
+    "amount": "5,853.00€",
+    "date": "11/17/2021",
+    "member_name": "George"
+  },
+  {
+    "departments": "IT",
+    "project_name": "Asterin",
+    "amount": "1,998.00€",
+    "date": "7/26/2021",
+    "member_name": "Sam"
+  },
+  {
+    "departments": "Marketing",
+    "project_name": "Mars-NS1",
+    "amount": "546.00€",
+    "date": "5/8/2021",
+    "member_name": "Matt"
+  },
+  {
+    "departments": "HR",
+    "project_name": "AlphaDeo",
+    "amount": "1,148.00€",
+    "date": "4/11/2021",
+    "member_name": "Matt"
+  },
+  {
+    "departments": "Marketing",
+    "project_name": "Mars-NS1",
+    "amount": "1,955.00€",
+    "date": "7/7/2021",
+    "member_name": "Matt"
+  },
+  {
+    "departments": "HR",
+    "project_name": "AlphaDeo",
+    "amount": "8,428.00€",
+    "date": "8/17/2021",
+    "member_name": "Jennifer"
+  },
+  {
+    "departments": "Sales",
+    "project_name": "Asterin",
+    "amount": "528.00€",
+    "date": "2/2/2021",
+    "member_name": "Ann"
+  },
+  {
+    "departments": "HR",
+    "project_name": "Mars-NS1",
+    "amount": "4.00€",
+    "date": "1/14/2021",
+    "member_name": "Jennifer"
+  },
+  {
+    "departments": "Marketing",
+    "project_name": "Asterin",
+    "amount": "7,768.00€",
+    "date": "6/3/2021",
+    "member_name": "Jennifer"
+  }
+]

@@ -1,0 +1,76 @@
+.container {
+  max-width: 1028px;
+  margin: 48px auto;
+
+  a {
+    font-size: 24px;
+    font-weight: 700;
+
+    float: right;
+  }
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+
+.table {
+  margin: 0 auto;
+  width: 100%;
+
+}
+
+.tableHeader {
+  th {
+    font-size: 24px;
+    color: black;
+    font-weight: normal;
+    text-align: left;
+
+    margin: 0 auto;
+    padding: 10px 20px;
+    min-width: 250px;
+    border-bottom: 1px solid rgb(190, 190, 190);
+
+    .content {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+    }
+
+    &:hover {
+      background: rgba(0, 0, 0, 0.06);
+      cursor: pointer;
+    }
+  }
+}
+
+.tableBody {
+  tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+    &:hover {
+      background: rgba(0, 0, 0, 0.06);
+      transition: background 0.3s;
+    }
+  }
+
+  td {
+    font-size: 24px;
+    color: black;
+    font-weight: normal;
+    text-align: left;
+
+    margin: 0;
+    padding: 10px 20px;
+  }
+}
+
+.sumTotal {
+  font-size: 30px;
+  margin-top: 30px;
+  margin-left: 40px;
+}
